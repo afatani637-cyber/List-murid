@@ -5,15 +5,15 @@
     <style>
         body {
             font-family: Arial, sans-serif;
-            background-color: #ffffcc; /* kuning terang */
-            color: #4caf50; /* hijau terang */
+            background-color: #ffffcc;
+            color: #4caf50;
             padding: 20px;
         }
         h1 {
-            color: #7fff00; /* hijau cerah (chartreuse) */
+            color: #7fff00;
         }
         ol {
-            background-color: #ffff99; /* kuning cerah lebih terang */
+            background-color: #ffff99;
             padding: 15px 25px;
             border-radius: 8px;
             max-width: 500px;
@@ -35,46 +35,48 @@
     </style>
 </head>
 <body>
-    <h1>nama-nama murid kelas 4a</h1>
+    <h1>Daftar Nama Murid Kelas 4a</h1>
     <ol>
-        <li>wali kelas
+        <li>Wali Kelas
             <ul>
-                <li>riski noor hayati</li>
+                <li>Riski Noor Hayati</li>
             </ul>
         </li>
-        <li>siswa
+        <li>Siswa
             <ul>
-                <li>fathan</li>
-                <li>ridho</li>
-                <li>amat</li>
-                <li>aska</li>
-                <li>nabil</li>
-                <li>al</li>
-                <li>zaki</li>
-                <li>arsyad</li>
-                <li>salim</li>
-                <li>abdan</li>
-                <li>fadhli</li>
-                <li>adit</li>
-                <li>azzam</li>
-                <li>syehlim</li>
-                <li>dika</li>
+                <li>Fathan</li>
+                <li>Ridho</li>
+                <li>Amat</li>
+                <li>Aska</li>
+                <li>Nabil</li>
+                <li>Al</li>
+                <li>Zaki</li>
+                <li>Arsyad</li>
+                <li>Salim</li>
+                <li>Abdan</li>
+                <li>Fadhli</li>
+                <li>Adit</li>
+                <li>Azzam</li>
+                <li>Syehlim</li>
+                <li>Dika</li>
             </ul>
         </li>
-        <li>siswi
+        <li>Siswi
             <ul>
-                <li>fitri</li>
-                <li>fania</li>
-                <li>aulia</li>
-                <li>azmi</li>
-                <li>nada</li>
-                <li>hijrah</li>
-                <li>shena</li>
-                <li>aisyah</li>
-                <li>salsa</li>
-                <li>humai</li>
-                <li>ayu</li>
-                <li>aqila</li>
+                <li>Fitri</li>
+                <li>Fania</li>
+                <li>Aulia</li>
+                <li>Azmi</li>
+                <li>Nada</li>
+                <li>Hijrah</li>
+                <li>Shena</li>
+                <li>Aisyah</li>
+                <li>Salsa</li>
+                <li>Humai</li>
+                <li>Ayu</li>
+                <li>Aqila</li>
+                <li>Najibah</li>
+                <li>Riski</li>
             </ul>
         </li>
     </ol>
